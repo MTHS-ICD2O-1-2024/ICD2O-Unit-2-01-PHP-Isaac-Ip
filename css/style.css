@@ -1,5 +1,5 @@
 /* Created by: Isaac Ip
-* Created on: Feb 2025
+* Created on: Mar 2025
 * This file contains the CSS for index.html
 */
 
@@ -24,18 +24,11 @@
   font-size: 1.25rem;
 }
 
-.page-content-answer {
-  color: rgb(0 0 0);
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 1.25rem;
-}
-
-.right-image {
-  height: auto;
-  width: 250px;
-  float: right;
-}
-
 body {
   background-color: cornflowerblue;
+}
+
+img {
+  float: right;
+  height: 200px;
 }
